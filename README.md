@@ -1,2 +1,2 @@
-# Geolocation_devops
-This project is developed in Java.
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
